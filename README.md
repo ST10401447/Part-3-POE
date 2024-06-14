@@ -1,7 +1,7 @@
 # Part-3-POE
 The Recipe Project
 
-## This project contains a WPF application of a recipe system that ask the user to enter the information of ingredients and steps and allow the user to scale the measurements and display the recipe9(s).
+## This project contains a WPF application of a recipe system that ask the user to enter the information of ingredients and steps and allow the user to scale the measurements and display the recipe(s).
 
 This WPF application is built to take in information of the recipe and display that information that will be inserted by the user.Every part of this project is a sample code which which shows the following:
 
@@ -21,7 +21,7 @@ This WPF application is built to take in information of the recipe and display t
 5. Enter the name of the recipe
 6. Enter the name of the ingredient
 7. Enter the quantity of the ingredient
-8. Enter the measurement unit of the recipe
+8. Enter the measurement unit of the ingredient
 9. Enter number of calories that the ingredient has
 10.Add another ingredient of the recipe if your recipe has more than 1 ingredient
 11. Enter the the step
@@ -36,10 +36,18 @@ This WPF application is built to take in information of the recipe and display t
 20. Press show recipe button and  the recipe containing the ingredient name or food group or calories that you entered will be displayed
 21. To Exit the window press EXIT
 22. To clear recipe press clear recipe button then click display recipe
-23. The recipe will not appear because the recipe will be cleared.
+23. The recipe will not appear because the recipe will be cleared
+24. After running the application you can press an exit button to close the main window
 
 ## You find a bug?
 If you find a bug  while running this application or you would like to submit an improvement on the project please submit the comment on rc learn so i can fix the bug or try to improve my application next time.
 
 ## Changes i made  on this system  from part 2
-I used a WPF application for this part.
+1.I used a WPF application and not console application for this part
+
+2.I added  images on this application
+
+3.I used controls to design the application
+
+4.I added a logo for this application
+
